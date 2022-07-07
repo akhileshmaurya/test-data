@@ -1,9 +1,4 @@
-{
-   "totalRecordCount":2,
-   "currentPage":0,
-   "sortBy":"startime",
-   "totalPages":1,
-   "BookingDTO":[
+[
       {
          "bookingId":"4b5de40f-596c-4ad7-ac03-872d487e2feb",
          "bookingRequestId":"b8c4e297-c89a-45be-b69d-a11c9aa54a04",
@@ -99,4 +94,3 @@
          "parentPremise":"76a3114f-7ce5-4500-a50e-ce15b4182839"
       }
    ]
-}
